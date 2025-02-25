@@ -30,12 +30,12 @@ const About = () => {
               </div>
               <div className="text-center">
                 <BarChart2 className="w-8 h-8 text-primary mx-auto mb-2" />
-                <h4 className="font-semibold text-xl mb-1">95%</h4>
+                <h4 className="font-semibold text-xl mb-1">90%</h4>
                 <p className="text-sm text-muted-foreground">Success Rate</p>
               </div>
               <div className="text-center">
                 <Award className="w-8 h-8 text-primary mx-auto mb-2" />
-                <h4 className="font-semibold text-xl mb-1">0</h4>
+                <h4 className="font-semibold text-xl mb-1">1+</h4>
                 <p className="text-sm text-muted-foreground">Industry Awards</p>
               </div>
             </div>

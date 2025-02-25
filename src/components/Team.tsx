@@ -6,13 +6,13 @@ const teamMembers = [
   {
     name: "Chamod Karunathilake",
     role: "Project Lead",
-    image: "",
+    image: "static/team/Chamod.jpg",
     linkedin: "https://linkedin.com/in/chamod-karunathilake",
   },
   {
     name: "Akila Pramod",
     role: "Machine Learning Developer",
-    image: "",
+    image: "static/team/Akila.jpg",
     linkedin: "https://www.linkedin.com/in/m-d-a-pramod",
   },
   {
