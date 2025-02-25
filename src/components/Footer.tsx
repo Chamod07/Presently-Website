@@ -1,5 +1,5 @@
 
-import { Facebook, Instagram, Linkedin } from "lucide-react";
+import { Instagram, Linkedin } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -23,7 +23,7 @@ const Footer = () => {
               <p>
                 <span className="text-white/60">Email: </span>
                 <a href="mailto:presently@gmail.com" className="text-emerald-400 hover:text-emerald-300">
-                  presently@gmail.com
+                  presently.coach@gmail.com
                 </a>
               </p>
             </div>
