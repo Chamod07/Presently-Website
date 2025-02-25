@@ -6,7 +6,7 @@ const Contact = () => {
   const contactInfo = {
     address: "Colombo, Sri Lanka",
     phone: "+94 70 630 4241",
-    email: "presently@gmail.com",
+    email: "presently.coach@gmail.com",
   };
 
   return (
