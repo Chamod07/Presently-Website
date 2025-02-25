@@ -18,25 +18,25 @@ const teamMembers = [
   {
     name: "Gajitha Suweeraka",
     role: "Mobile Developer",
-    image: "public/team/Gajitha.jpg",
+    image: "static/team/Gajitha.jpg",
     linkedin: "https://www.linkedin.com/in/gajitha-suweeraka-4b49092a1",
   },
   {
     name: "Odara Gunasekara",
     role: "Backend Developer",
-    image: "public/team/Odara.jpg",
+    image: "static/team/Odara.jpg",
     linkedin: "https://www.linkedin.com/in/odara-gunasekara-b5aaa5306",
   },
   {
     name: "Steve Wanigasekara",
     role: "Backend Developer",
-    image: "public/team/Steve.jpg",
+    image: "static/team/Steve.jpg",
     linkedin: "https://www.linkedin.com/in/steve-chrishane",
   },
   {
     name: "Dinuka Sithuranga",
     role: "Mobile Developer",
-    image: "public/team/Dinuka.jpg",
+    image: "static/team/Dinuka.jpg",
     linkedin: "https://www.linkedin.com/in/dinuka-sithuranga",
   },
 ];

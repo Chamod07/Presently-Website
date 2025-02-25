@@ -47,7 +47,7 @@ const Hero = () => {
               <div className="aspect-square rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20 float" />
               <div className="absolute inset-0 grid place-items-center">
                 <div className="w-3/4 aspect-[4/3] bg-white rounded-xl shadow-2xl transform -rotate-6 float">
-                  <img src="public/presently_hero.gif" alt="Presently" />
+                  <img src={"static/presently_hero.gif"} alt="Presently" className="rounded-2xl"/>
                 </div>
               </div>
             </motion.div>
