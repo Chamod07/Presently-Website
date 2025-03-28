@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
@@ -18,6 +17,7 @@ const Navbar = () => {
   const navLinks = [
     { name: "Features", href: "#features" },
     { name: "About", href: "#about" },
+    { name: "Pricing", href: "#pricing" },
     { name: "Team", href: "#team" },
     { name: "FAQ", href: "#faq" },
     { name: "Contact", href: "#contact" },

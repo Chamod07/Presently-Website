@@ -1,4 +1,3 @@
-
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Features from "@/components/Features";
@@ -8,6 +7,7 @@ import FAQ from "@/components/FAQ";
 import Contact from "@/components/Contact";
 import Newsletter from "@/components/Newsletter";
 import Footer from "@/components/Footer";
+import Pricing from "@/components/Pricing";
 
 const Index = () => {
   return (
@@ -16,6 +16,7 @@ const Index = () => {
       <Hero />
       <Features />
       <About />
+      <Pricing />
       <Team />
       <FAQ />
       <Contact />
